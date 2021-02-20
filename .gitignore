@@ -1,4 +1,6 @@
 node_modules
 npm-debug.log
 dist
+!up-and-running-with-typescript/dist
 test
+.cache
